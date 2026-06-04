@@ -2,6 +2,8 @@
 
 # So Long
 
+![description](so_long.png)
+
 ## Description
 
 A small 2D game built in C using the MiniLibX graphical library. The player controls a character navigating a tile-based map, collecting all items before reaching the exit via the shortest possible route. The project covers window management, event handling, textures, sprites, and basic map parsing/validation.
